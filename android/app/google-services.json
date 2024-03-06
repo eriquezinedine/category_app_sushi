@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158959951856",
+    "project_id": "takesushi-6cab6",
+    "storage_bucket": "takesushi-6cab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158959951856:android:70b0fec0930d7722430735",
+        "android_client_info": {
+          "package_name": "com.example.take_sushi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfyvQ7Zhn6bhmOEGg563DdgdnnIBjpNeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
